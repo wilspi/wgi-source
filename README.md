@@ -1,6 +1,6 @@
 # wgi-source
 
-Source of [wilspi.github.io](https://github.com/wilspi/wilspi.github.io)<br>
+Source generator of [wilspi.github.io](https://github.com/wilspi/wilspi.github.io)<br>
 Powered by [Hugo](https://gohugo.io/)
 
 Useful commands:
