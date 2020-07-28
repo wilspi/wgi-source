@@ -6,27 +6,27 @@ enableEmoji = true
 enableRobotsTXT = true
 
 
-# Google Analytics
+## Google Analytics
 googleAnalytics = "UA-51915090-3"
 
 
 [params]
-title = "I'm Sourabh Deokar"
+title = "नमस्ते"
 author = "wilspi"
-description = "Call me wilspi"
+# description = "I'm Sourabh Deokar"
 profilePicture = "images/dp.jpg"
 keywords = ""
 favicon = "favicons/"
 customCss = []
 customJs = []
 mainSections = ["post"]
-#images = ["images/site-feature-image.png"]
+images = ["images/cover.jpg"]
 
 
 ## Math settings
 [params.math]
-enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
-use = "katex"  # options: "katex", "mathjax". default is "katex".
+enable = false
+use = "katex"
 
 
 ## Social links
@@ -55,14 +55,14 @@ url = "https://www.twitter.com/iamwilspi"
   weight = 100
   url = "/"
 
-  [[menu.main]]
-  name = "Posts"
-  weight = 200
-  identifier = "posts"
-  url = "/post/"
+  # [[menu.main]]
+  # name = "Posts"
+  # weight = 200
+  # identifier = "posts"
+  # url = "/post/"
 
-  [[menu.main]]
-  name = "About"
-  weight = 300
-  identifier = "about"
-  url = "/about/"
+  # [[menu.main]]
+  # name = "About"
+  # weight = 300
+  # identifier = "about"
+  # url = "/about/"

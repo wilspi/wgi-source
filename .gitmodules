@@ -1,7 +1,3 @@
-[submodule "themes/anatole"]
-	path = themes/anatole
-	url = git@github.com:lxndrblz/anatole.git
-
 [submodule "public"]
 	path = public
 	url = git@github.com:wilspi/wilspi.github.io.git
