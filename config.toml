@@ -1,6 +1,6 @@
 baseURL = "https://wilspi.com"
 languageCode = "en-us"
-title = "Sourabh Deokar | wilspi"
+title = "Sourabh Deokar"
 theme = "anatole"
 enableEmoji = true
 enableRobotsTXT = true
