@@ -1,9 +1,13 @@
 baseURL = "https://wilspi.com"
 languageCode = "en-us"
 title = "Sourabh Deokar"
-theme = "anatole"
+theme = "PaperMod"
+
 enableEmoji = true
 enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
 
 
 ## Google Analytics
@@ -15,12 +19,46 @@ title = "नमस्ते"
 author = "wilspi"
 # description = "I'm Sourabh Deokar"
 profilePicture = "images/dp.jpg"
+
+env = "production" # to enable google analytics, opengraph, twitter-cards and schema.
+#images = ["<link or path of image for opengraph, twitter-cards>"]
+
+defaultTheme = "auto" # dark, light
+disableThemeToggle = false
+
+ShowReadingTime = true
+ShowShareButtons = false
+disableSpecial1stPost = true
+comments = false
+hidemeta = false
+showtoc = false
+tocopen = false
+
 keywords = ""
 favicon = "favicons/"
 customCss = []
 customJs = []
 mainSections = ["post"]
 images = ["images/cover.jpg"]
+
+[params.profileMode]
+enabled = false # needs to be explicitly set
+title = "ExampleSite"
+subtitle = "This is subtitle"
+imageUrl = "images/cover.jpg"
+imageWidth = 120
+imageHeight = 120
+imageTitle = "my image"
+# buttons:
+#         - name: Posts
+#           url: posts
+#         - name: Tags
+#           url: tags
+
+# home-info mode
+# homeInfoParams:
+#     Title: "Hi there \U0001F44B"
+#     Content: Welcome to my blog
 
 
 ## Math settings
