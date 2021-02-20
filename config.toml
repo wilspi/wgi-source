@@ -1,6 +1,6 @@
 baseURL = "https://wilspi.com"
 languageCode = "en-us"
-title = "Sourabh Deokar"
+title = "wilspi"
 theme = "PaperMod"
 
 enableEmoji = true
@@ -56,9 +56,11 @@ imageTitle = "my image"
 #           url: tags
 
 # home-info mode
-# homeInfoParams:
-#     Title: "Hi there \U0001F44B"
-#     Content: Welcome to my blog
+[params.homeInfoParams]
+Title = "Hi there \U0001F44B"
+Content = "My name is Sourabh Deokar, and here I capture my learnings, musings, programming notes, etc. Welcome to my blog!"
+
+
 
 
 ## Math settings
@@ -70,17 +72,17 @@ use = "katex"
 ## Social links
 [[params.socialIcons]]
 icon = "fa-github"
-title = "GitHub"
+name = "GitHub"
 url = "https://github.com/wilspi/"
 
 [[params.socialIcons]]
 icon = "fa-youtube"
-title = "Youtube"
+name = "Youtube"
 url = "https://www.youtube.com/channel/UCMg3idz-2FlreEeHY_0i13w"
 
 [[params.socialIcons]]
 icon = "fa-twitter"
-title = "Twitter"
+name = "Twitter"
 url = "https://www.twitter.com/iamwilspi"
 
 # [[params.socialIcons]]
