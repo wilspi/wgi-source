@@ -7,5 +7,5 @@ Useful commands:
 
 ```
 hugo server #to run local server
-hugo -D #to generate static files
+hugo #to generate html pages
 ```
