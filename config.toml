@@ -45,10 +45,10 @@ icon = "fa-twitter"
 title = "Twitter"
 url = "https://www.twitter.com/iamwilspi"
 
-[[params.socialIcons]]
-icon = "fa-instagram"
-title = "Instagram"
-url = "https://www.instagram.com/wilspi/"
+# [[params.socialIcons]]
+# icon = "fa-instagram"
+# title = "Instagram"
+# url = "https://www.instagram.com/wilspi/"
 
 ## Menu items
 [menu]
