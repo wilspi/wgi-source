@@ -58,7 +58,7 @@ imageTitle = "my image"
 # home-info mode
 [params.homeInfoParams]
 Title = "Hi there \U0001F44B"
-Content = "My name is Sourabh Deokar, and here I capture my learnings, musings, programming notes, etc. Welcome to my blog!"
+Content = "My name is Sourabh Deokar, and I share my learnings, musings and experiences here. Welcome to my blog!"
 
 
 
