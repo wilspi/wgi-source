@@ -1,6 +1,6 @@
 baseURL = "https://wilspi.com"
 languageCode = "en-us"
-title = "wilspi"
+title = "wilspi | Sourabh Deokar"
 theme = "PaperMod"
 
 enableEmoji = true
@@ -99,11 +99,11 @@ url = "https://www.twitter.com/iamwilspi"
   weight = 100
   url = "/"
 
-  [[menu.main]]
-  name = "Notes"
-  identifier = ""
-  weight = 100
-  url = "https://notes.wilspi.com"
+  # [[menu.main]]
+  # name = "Notes"
+  # identifier = ""
+  # weight = 100
+  # url = "https://notes.wilspi.com"
 
   # [[menu.main]]
   # name = "Posts"
