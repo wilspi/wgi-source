@@ -41,6 +41,14 @@ customJs = []
 mainSections = ["post"]
 images = ["images/cover.jpg"]
 
+
+[params.assets]
+favicon = "favicons/favicon.ico"
+favicon16x16 = "favicons/favicon-16x16.png"
+favicon32x32 = "favicons/favicon-32x32.png"
+apple_touch_icon = "favicons/apple-touch-icon.png"
+# safari_pinned_tab: "<link / abs url>"
+
 [params.profileMode]
 enabled = false # needs to be explicitly set
 title = "ExampleSite"
