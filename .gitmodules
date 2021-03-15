@@ -3,4 +3,4 @@
 	url = git@github.com:wilspi/wilspi.github.io.git
 [submodule "content"]
 	path = content
-	url = git@github.com:wilspi/wgi-content.git
+	url = git@github.com:wilspi/blog-content.git
