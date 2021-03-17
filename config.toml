@@ -17,7 +17,7 @@ googleAnalytics = "UA-51915090-3"
 [params]
 title = "नमस्ते"
 author = "wilspi"
-# description = "I'm Sourabh Deokar"
+description = "Hi there! 👋 My name is Sourabh Deokar, and I share my learnings, musings and experiences here. Welcome to my blog!"
 profilePicture = "images/dp.jpg"
 
 env = "production" # to enable google analytics, opengraph, twitter-cards and schema.
