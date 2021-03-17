@@ -1,0 +1,46 @@
+baseURL: https://wilspi.com
+params:
+    AuthorName: wilspi
+    GitHubUser: wilspi
+title: wilspi | tech, musings,
+theme: PaperMod
+
+builddrafts: false
+buildexpired: false
+buildfuture: false
+
+debug: false
+environment: "production"
+
+defaultcontentlanguage: "en"
+enableemoji: true
+enableRobotsTXT: true
+
+## Google Analytics
+googleAnalytics: UA-51915090-3
+
+footnoteanchorprefix: ""
+footnotereturnlinkcontents: ""
+forcesyncstatic: false
+hascjklanguage: false
+ignorecache: false
+ignorefiles: []
+indexes: map[category:categories tag:tags]
+newcontenteditor: ""
+paginate: 10
+paginatepath: "page"
+params: map[authorname:wilspi githubuser:wilspi]
+permalinks: map[]
+pluralizelisttitles: true
+publishdir: "public"
+pygmentscodefencesguesssyntax: false
+relativeurls: false
+removepathaccents: false
+resourcedir: "resources"
+rsslimit: -1
+sectionpagesmenu: ""
+sitemap: {ChangeFreq: Priority:-1 Filename:sitemap.xml}
+summarylength: 70
+taxonomies: map[category:categories tag:tags]
+
+timeout: "30s"
