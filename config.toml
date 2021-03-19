@@ -8,7 +8,7 @@ enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
 buildExpired = false
-
+ignorefiles = [ "post/drafts/.*" ]
 
 ## Google Analytics
 googleAnalytics = "UA-51915090-3"
